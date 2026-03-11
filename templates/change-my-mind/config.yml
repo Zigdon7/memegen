@@ -1,0 +1,21 @@
+name: Change My Mind
+keywords: [change my mind, steven crowder, debate, prove me wrong]
+example: ["Tabs are better than spaces", ""]
+text:
+  - anchor_x: 0.2
+    anchor_y: 0.55
+    scale_x: 0.55
+    scale_y: 0.2
+    alignment: center
+    color: black
+    stroke_color: white
+    stroke_width: 0
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+    alignment: center
+    style: upper
+    max_font_size: 60

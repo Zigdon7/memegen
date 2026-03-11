@@ -1,0 +1,18 @@
+name: Bernie Sanders Asking
+keywords: [bernie, sanders, asking, once again]
+example: ["", "I am once again asking for your support"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    style: upper
+    max_font_size: 50
+  - anchor_x: 0.0
+    anchor_y: 0.82
+    scale_x: 1.0
+    scale_y: 0.18
+    alignment: center
+    style: upper
+    max_font_size: 50

@@ -1,0 +1,10 @@
+services:
+  memegen:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - MEMEGEN_DEBUG=false
+    volumes:
+      - ./templates:/app/templates:ro
+    restart: unless-stopped

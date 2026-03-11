@@ -1,0 +1,32 @@
+name: Expanding Brain
+keywords: [brain, expanding, galaxy brain, levels, intelligence]
+example: ["Normal idea", "Slightly better idea", "Big brain idea", "Galaxy brain idea"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 0.5
+    scale_y: 0.25
+    alignment: center
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.0
+    anchor_y: 0.25
+    scale_x: 0.5
+    scale_y: 0.25
+    alignment: center
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.0
+    anchor_y: 0.5
+    scale_x: 0.5
+    scale_y: 0.25
+    alignment: center
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.0
+    anchor_y: 0.75
+    scale_x: 0.5
+    scale_y: 0.25
+    alignment: center
+    style: none
+    max_font_size: 40

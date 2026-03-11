@@ -1,0 +1,18 @@
+name: Stonks
+keywords: [stonks, stocks, meme man, profit]
+example: ["", "Stonks"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+    alignment: center
+    style: upper
+    max_font_size: 60
+  - anchor_x: 0.0
+    anchor_y: 0.8
+    scale_x: 1.0
+    scale_y: 0.2
+    alignment: center
+    style: upper
+    max_font_size: 60

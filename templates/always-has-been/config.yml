@@ -1,0 +1,18 @@
+name: Always Has Been
+keywords: [astronaut, always has been, wait its all, gun]
+example: ["Wait, it's all bugs?", "Always has been"]
+text:
+  - anchor_x: 0.3
+    anchor_y: 0.3
+    scale_x: 0.3
+    scale_y: 0.15
+    alignment: center
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.65
+    anchor_y: 0.0
+    scale_x: 0.3
+    scale_y: 0.15
+    alignment: center
+    style: none
+    max_font_size: 40

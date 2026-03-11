@@ -1,0 +1,26 @@
+name: Drakeposting
+keywords: [drake, disapproval, approval, prefer]
+example: ["Boring thing", "Fun thing"]
+text:
+  - anchor_x: 0.52
+    anchor_y: 0.0
+    scale_x: 0.48
+    scale_y: 0.5
+    alignment: center
+    font: impact
+    color: white
+    stroke_color: black
+    stroke_width: 3
+    style: none
+    max_font_size: 60
+  - anchor_x: 0.52
+    anchor_y: 0.5
+    scale_x: 0.48
+    scale_y: 0.5
+    alignment: center
+    font: impact
+    color: white
+    stroke_color: black
+    stroke_width: 3
+    style: none
+    max_font_size: 60
