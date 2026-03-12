@@ -1,0 +1,34 @@
+name: Who Killed Hannibal
+keywords: [who killed hannibal, eric andre, gun, why would they do this]
+example: ["Does the bad thing", "Why would X do this", ""]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 35
+  - anchor_x: 0.0
+    anchor_y: 0.5
+    scale_x: 1.0
+    scale_y: 0.1
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 35
+  - anchor_x: 0.0
+    anchor_y: 0.85
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 35

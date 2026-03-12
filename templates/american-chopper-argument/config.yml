@@ -1,0 +1,54 @@
+name: American Chopper Argument
+keywords: [american chopper, argument, yelling, fight, 5 panel]
+example: ["Point 1", "Counterpoint", "Point 2", "More yelling", "Conclusion"]
+text:
+  - anchor_x: 0.3
+    anchor_y: 0.0
+    scale_x: 0.7
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.3
+    anchor_y: 0.2
+    scale_x: 0.7
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.3
+    anchor_y: 0.4
+    scale_x: 0.7
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.3
+    anchor_y: 0.6
+    scale_x: 0.7
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.3
+    anchor_y: 0.8
+    scale_x: 0.7
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25

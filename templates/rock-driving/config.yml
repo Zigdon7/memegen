@@ -1,0 +1,24 @@
+name: The Rock Driving
+keywords: [the rock, driving, car, dwayne johnson, passenger]
+example: ["Something normal", "Wait what"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.25
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 35
+  - anchor_x: 0.0
+    anchor_y: 0.5
+    scale_x: 1.0
+    scale_y: 0.25
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 35

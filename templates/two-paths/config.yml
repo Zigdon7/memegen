@@ -1,0 +1,34 @@
+name: Two Paths
+keywords: [two paths, fork, road, choice]
+example: ["Me", "Good choice", "Bad choice"]
+text:
+  - anchor_x: 0.3
+    anchor_y: 0.7
+    scale_x: 0.4
+    scale_y: 0.25
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 0.45
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.55
+    anchor_y: 0.0
+    scale_x: 0.45
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25

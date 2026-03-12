@@ -1,0 +1,24 @@
+name: Anime Girl Hiding from Terminator
+keywords: [anime girl, terminator, hiding, scared]
+example: ["Me hiding", "My problems"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 0.5
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30
+  - anchor_x: 0.5
+    anchor_y: 0.0
+    scale_x: 0.5
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30

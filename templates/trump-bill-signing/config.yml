@@ -1,0 +1,24 @@
+name: Trump Bill Signing
+keywords: [trump, bill signing, executive order, holding up]
+example: ["", "Something on the paper"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.1
+    anchor_y: 0.4
+    scale_x: 0.5
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30

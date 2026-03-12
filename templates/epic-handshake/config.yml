@@ -1,0 +1,34 @@
+name: Epic Handshake
+keywords: [handshake, agreement, predator, arnold]
+example: ["Group A", "Thing in common", "Group B"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 0.35
+    scale_y: 0.5
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 3
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.2
+    anchor_y: 0.6
+    scale_x: 0.6
+    scale_y: 0.35
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 3
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.65
+    anchor_y: 0.0
+    scale_x: 0.35
+    scale_y: 0.5
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 3
+    style: none
+    max_font_size: 40

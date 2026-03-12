@@ -1,0 +1,24 @@
+name: I Bet He's Thinking About Other Women
+keywords: [thinking, other women, bed, couple, lying in bed]
+example: ["I bet he's thinking about other women", "Some random thought"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 0.45
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 35
+  - anchor_x: 0.55
+    anchor_y: 0.0
+    scale_x: 0.45
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 35

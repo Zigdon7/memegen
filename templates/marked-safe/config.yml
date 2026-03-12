@@ -1,0 +1,24 @@
+name: Marked Safe From
+keywords: [marked safe, facebook, safety check]
+example: ["", "Marked safe from something annoying"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.15
+    anchor_y: 0.45
+    scale_x: 0.7
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 35

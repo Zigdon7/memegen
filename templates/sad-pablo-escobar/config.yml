@@ -1,0 +1,34 @@
+name: Sad Pablo Escobar
+keywords: [pablo escobar, sad, waiting, narcos, alone]
+example: ["Waiting for something", "Still waiting", "Forever alone"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.0
+    anchor_y: 0.33
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 40
+  - anchor_x: 0.0
+    anchor_y: 0.66
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 40

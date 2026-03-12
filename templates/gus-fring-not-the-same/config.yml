@@ -1,0 +1,34 @@
+name: Gus Fring We Are Not The Same
+keywords: [gus fring, not the same, breaking bad, we are not the same]
+example: ["You do X for reason A", "I do X for reason B", "We are not the same"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30
+  - anchor_x: 0.0
+    anchor_y: 0.4
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30
+  - anchor_x: 0.0
+    anchor_y: 0.82
+    scale_x: 1.0
+    scale_y: 0.15
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30

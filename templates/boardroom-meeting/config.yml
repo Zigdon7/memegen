@@ -1,0 +1,44 @@
+name: Boardroom Meeting Suggestion
+keywords: [boardroom, meeting, suggestion, thrown out window]
+example: ["Bad idea 1", "Bad idea 2", "Good idea", "Thrown out"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 0.33
+    scale_y: 0.5
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.33
+    anchor_y: 0.0
+    scale_x: 0.33
+    scale_y: 0.5
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.66
+    anchor_y: 0.0
+    scale_x: 0.34
+    scale_y: 0.5
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.0
+    anchor_y: 0.5
+    scale_x: 1.0
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30

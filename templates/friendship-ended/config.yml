@@ -1,0 +1,24 @@
+name: Friendship Ended
+keywords: [friendship ended, new best friend, mudasir, salman]
+example: ["Friendship ended with X", "Now Y is my best friend"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30
+  - anchor_x: 0.0
+    anchor_y: 0.8
+    scale_x: 1.0
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30

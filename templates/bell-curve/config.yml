@@ -1,0 +1,34 @@
+name: Bell Curve
+keywords: [bell curve, iq, midwit, normal distribution]
+example: ["Simple take", "Overthinking it", "Simple take again"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.6
+    scale_x: 0.25
+    scale_y: 0.4
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.35
+    anchor_y: 0.0
+    scale_x: 0.3
+    scale_y: 0.3
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25
+  - anchor_x: 0.75
+    anchor_y: 0.6
+    scale_x: 0.25
+    scale_y: 0.4
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 25

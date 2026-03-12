@@ -1,0 +1,24 @@
+name: Pawn Stars Best I Can Do
+keywords: [pawn stars, best i can do, rick harrison, lowball]
+example: ["Best I can do is", "Nothing"]
+text:
+  - anchor_x: 0.0
+    anchor_y: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 50
+  - anchor_x: 0.0
+    anchor_y: 0.8
+    scale_x: 1.0
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 50

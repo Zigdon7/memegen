@@ -1,0 +1,34 @@
+name: They're The Same Picture
+keywords: [same picture, corporate, pam, the office, identical]
+example: ["Thing A", "Thing B", "They're the same picture"]
+text:
+  - anchor_x: 0.05
+    anchor_y: 0.05
+    scale_x: 0.42
+    scale_y: 0.35
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30
+  - anchor_x: 0.53
+    anchor_y: 0.05
+    scale_x: 0.42
+    scale_y: 0.35
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30
+  - anchor_x: 0.1
+    anchor_y: 0.75
+    scale_x: 0.8
+    scale_y: 0.2
+    alignment: center
+    color: white
+    stroke_color: black
+    stroke_width: 2
+    style: none
+    max_font_size: 30
